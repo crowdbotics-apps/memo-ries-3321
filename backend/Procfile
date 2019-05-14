@@ -1,0 +1,1 @@
+web: waitress-serve --port=$PORT memo_ries_3321.wsgi:application
